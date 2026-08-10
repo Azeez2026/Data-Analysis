@@ -1,2 +1,1 @@
-# Data-Analysis
-test
+"This project applies the data analysis skills I have learned. It involves importing data into Python, cleaning it using SQL, exporting the results to CSV files, and finally, building a Power BI dashboard to visualize key insights."
